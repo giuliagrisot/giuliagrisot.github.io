@@ -4,10 +4,6 @@ layout: default
 
 [about](about.md)  |  [publications](publications.md)  |  [conferences & talks](conf_talks.md)  |  [SA workspace](sa_coding.md)
 
-## computational and cognitive literary studies
-
-![colors](./images/img1.jpg)
-
 ## Welcome to our project's webpage
 
 We are a team of researchers based at the Digital Humanities Lab at the University of Basel, Swizerland.
