@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-[about](about.Rmd)  |  [publications](publications.md)  |  [conferences & talks](conf_talks.md)  |  [SA workspace](sa_coding.md)
+[about](about.md)  |  [publications](publications.md)  |  [conferences & talks](conf_talks.md)  |  [SA workspace](sa_coding.md)
 
 ## Welcome to our project's webpage
 
