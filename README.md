@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to our project's webpage
 
-You can use the [editor on GitHub](https://github.com/giuliagrisot/giuliagrisot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a team of researchers based at the Digital Humanities Lab at the University of Basel, Swizerland.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project High Mountains Low Arousal? – in close collaboration with the international COST Action “Distant Reading the European Novel” – proposes a contribution to literary studies in terms of digital resource building, literary theory, and methodological development. By means of a distant reading of German-Swiss novels, it aims at pioneering comparative historiographical and systematic research on the German novel of the early 20th Century, using digital methodologies of advanced sentiment analysis (SA).
 
 ```markdown
 Syntax highlighted code block
