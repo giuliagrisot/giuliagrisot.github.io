@@ -3,7 +3,7 @@ layout: default
 title: cv
 ---
 
-[CV](cv.md)  |  [Publications](publications.md)  |  [Contact me](contacts.md)
+[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Contact me](contacts.md)
 
 # Curriculum Vitae
 
