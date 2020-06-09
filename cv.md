@@ -5,19 +5,20 @@ title: cv
 
 [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Contact me](contacts.md)
 
-# Curriculum Vitae
 
-_Postdoctoral Researcher_, University of Basel
+## Curriculum Vitae
+
+*_Postdoctoral Researcher_*, University of Basel
 
 ## Education
-  - 2015–2020 PhD Applied Linguistics, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
-  - 2012–2013 MA Literary Linguistics, The University of Nottingham, Nottingham, UK
-  - 2009–2010 Erasmus (Anglistik, Germanistik), Universität Bayreuth, Bayreuth, Germany
-  - 2008–2011 BA Foreign Languages and Literature, University of Turin, Turin, Italy
+  - 2015–2020 *PhD Applied Linguistics*, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
+  - 2012–2013 *MA Literary Linguistics*, The University of Nottingham, Nottingham, UK
+  - 2009–2010 *Erasmus* (Anglistik, Germanistik), Universität Bayreuth, Bayreuth, Germany
+  - 2008–2011 *BA Foreign Languages and Literature*, University of Turin, Turin, Italy
 
 ## Awards
-  - Associate Fellow of The Higher Education Academy
-  - The University of Nottingham - Tuition Fee Scholarship, September 2016 - September 2018
+  - Associate Fellow of The *Higher Education Academy*
+  - The University of Nottingham - *Tuition Fee Scholarship*, September 2016 - September 2018
 
 ## Work Experience
 
