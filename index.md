@@ -5,6 +5,8 @@ title: home
 
 [cv](cv.md)  |  [publications](publications.md)  |  [contact me](contacts.md)
 
+# Welcome
+
 ## research interests
 
 Empirical approaches to literature, eye-tracking, stylistics, reader response, digital humanities.

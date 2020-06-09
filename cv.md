@@ -5,7 +5,7 @@ title: cv
 
 [cv](cv.md)  |  [publications](publications.md)  |  [contact me](contacts.md)
 
-# Curriculum Vitae
+# curriculum vitae
 
 _Postdoctoral Researcher_, University of Basel
 
