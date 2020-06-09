@@ -1,8 +1,17 @@
 ---
 layout: default
-title: publications
+title: about
 ---
 
-## our publications
+## about the project
 
+lorem ipsum 
+
+## people
+
+  - Berenike Herrmann
+  - Giulia Grisot
+  - ppl
+  - ppl
+  - ppl
   
