@@ -5,19 +5,19 @@ title: home
 
 [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Contact me](contacts.md)
 
+## Welcome to my personal website!
+
+I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally.
+
 ## Research interests
 
-Empirical approaches to literature, eye-tracking, stylistics, reader response, digital humanities.
-
-## Research summary
+empirical approaches to literature, eye-tracking, stylistics, reader response, digital humanities, semantic analysis
 
 I am currently part of the research project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://distant-reading-rg.github.io/about.html)
 
 ## Former research
 
 My PhD project explored language processing of difficulties in literary texts, with a particular focus on Virginia Woolf. It combined stylistics and psycholinguistics methods (in particular eye tracking), to investigate textual complexities from an empirical viewpoint.
-
-I am interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally.
 
 ## Bio
 
