@@ -3,7 +3,6 @@ layout: default
 title: conferences and talks
 ---
 
-## conferences and talks
+[CV](cv.md)  |  [Publications](publications.md)  |  [Contact me](contacts.md)
 
-lorem ipsum 
-
+If you would like to get in touch, click [here](mailto:grig@hotmail.it)
