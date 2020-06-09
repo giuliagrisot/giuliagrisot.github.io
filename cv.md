@@ -8,7 +8,7 @@ title: cv
 
 ## Curriculum Vitae
 
-*_Postdoctoral Researcher_*, University of Basel
+**Postdoctoral Researcher**, University of Basel
 
 ## Education
   - 2015–2020 *PhD Applied Linguistics*, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
