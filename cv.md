@@ -3,9 +3,9 @@ layout: default
 title: cv
 ---
 
-[cv](cv.md)  |  [publications](publications.md)  |  [contact me](contacts.md)
+[CV](cv.md)  |  [Publications](publications.md)  |  [Contact me](contacts.md)
 
-# curriculum vitae
+# Curriculum Vitae
 
 _Postdoctoral Researcher_, University of Basel
 
