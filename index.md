@@ -14,7 +14,7 @@ I am a researcher interested in the mechanisms by which humans process and under
 
 empirical approaches to literature, eye-tracking, stylistics, reader response, digital humanities, semantic analysis
 
-I am currently part of the research project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://distant-reading-rg.github.io/about.html)
+I am currently part of the research project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://mountain-sentiment.github.io/)
 
 ## Former research
 
