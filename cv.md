@@ -8,7 +8,7 @@ title: cv
 
 ## Curriculum Vitae
 
-**Postdoctoral Researcher**, University of Bielefeld, Germany
+**Postdoctoral Researcher**, Bielefeld University, Germany
 
 ## Education
   - 2015–2020 **PhD Applied Linguistics**, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
@@ -23,7 +23,7 @@ title: cv
 ## Work Experience
 
 ### Academic
-  - 2021-present **Postdoctoral Researcher**, University of Bielefeld, Germany
+  - 2021-present **Postdoctoral Researcher**, Bielefeld University, Germany
   - 2020-2021 **Postdoctoral Researcher**, University of Basel, Switzerland
   - 2015–2020 **Psycholinguistics Lab Assistant**, The University of Nottingham, UK
   - 2016–2017 **Teaching Affiliate**, The University of Nottingham, UK
