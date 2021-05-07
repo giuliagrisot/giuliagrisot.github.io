@@ -26,6 +26,8 @@ I have grown climbing trees and playing ball-games in a small town, learning to 
 
 ## Affiliations:
 
+[Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
+
 [Digital Humanities Lab (DHLab), Basel](https://dhlab.philhist.unibas.ch/en/home/)
 
 [CRAL Centre for Research in Applied Linguistics](https://www.nottingham.ac.uk/research/groups/cral/)
