@@ -3,7 +3,7 @@ layout: default
 title: publications and talks
 ---
 
-[Home](index.md)  | [CV](cv.md) | [Publications and talks](publications.md) | [Contact me](contacts.md)
+[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)
 
 
 ## Publications
