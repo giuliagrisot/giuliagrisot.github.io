@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Contact me](contacts.md) | [Scripts and coding tutorials](coding.md)
+[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)
 
 
 ## Welcome to my personal website!
