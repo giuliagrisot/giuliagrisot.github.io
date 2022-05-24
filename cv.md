@@ -46,9 +46,8 @@ title: cv
   - **Chinese** Beginner
 
 ## Computer skills
-  - **Word Processing** Microsoft Word, LaTeX, OpenOffice
-  - **Statistics** Microsoft Excel, R, SPSS, Python
-  - **Coding** R, GitHub
+  - **Writing** Microsoft Word, LaTeX, OpenOffice
+  - **Coding and Stats** R, Python, SPSS, GitHub, Microsoft Excel
   - **Eye tracking** SR Research Experiment Builder, Data Viewer
   - **Graphic Design** Adobe Creative Suite
 
