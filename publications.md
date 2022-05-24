@@ -8,9 +8,9 @@ title: publications and talks
 
 ## Publications
 
-  - **Herrmann, B., & Grisot, G. (2022)**. *Lieblingsgegenden, Fenster und Mauern. Zur emotionalen Enkodierung von Raum in Deutschschweizer Prosa zwischen 1850 und 1930.* DHd2022: Kulturen Des Digitalen Gedächtnisses. Konferenzabstracts. https://zenodo.org/record/6328025
+  - **Herrmann, J. B., & Grisot, G. (2022)**. *Lieblingsgegenden, Fenster und Mauern. Zur emotionalen Enkodierung von Raum in Deutschschweizer Prosa zwischen 1850 und 1930.* DHd2022: Kulturen Des Digitalen Gedächtnisses. Konferenzabstracts. https://zenodo.org/record/6328025
 	
-  - **Herrmann, B., Byszuk, J., & Grisot, G. (2022)**. *Using Word Embeddings for Validation and Enhancement of Spatial Entity Lists.* International Conference Digital Humanities 2022. Tokyo, Japan.
+  - **Herrmann, J. B., Byszuk, J., & Grisot, G. (2022)**. *Using Word Embeddings for Validation and Enhancement of Spatial Entity Lists.* International Conference Digital Humanities 2022. Tokyo, Japan.
 	
   - **Herrmann, J. B., Grisot, G., Gubser, S., & Kreyenbühl, E. (2021)**. *Ein großer Berg Daten? Zur bibliothekswissenschaftlichen Dimension des korpusliteraturwissenschaftlichen Digital Humanities-Projekts „High Mountains – Deutschschweizer Erzählliteratur 1880–1930”.* 027.7 Zeitschrift Für Bibliothekskultur / Journal for Library Culture, 8(1). https://doi.org/10.21428/1bfadeb6.6e2feff6
 	
