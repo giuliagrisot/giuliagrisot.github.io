@@ -28,7 +28,7 @@ I have grown climbing trees and playing ball-games in a small town, learning to 
 
 [Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
 
-[Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/giulia-grisot/)
+[Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/)
 
 [Digital Humanities Lab (DHLab), Basel](https://dhlab.philhist.unibas.ch/en/home/)
 
