@@ -4,10 +4,11 @@ title: CV
 nav_order: 2
 ---
 
-## Curriculum Vitae
+# Curriculum Vitae
 
-**Postdoctoral Researcher**, Bielefeld University, Germany
-**Visiting Scholar**, Cambridge Digital Humanities, UK
+## Current position
+- **Postdoctoral Researcher**, Bielefeld University, Germany
+- **Visiting Scholar**, Cambridge Digital Humanities, UK
 
 ## Education
   - 2020-2021 **Postdoctoral Researcher**, Basel University, Switzerland
