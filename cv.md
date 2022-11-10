@@ -17,9 +17,10 @@ nav_order: 2
   - 2009–2010 *Erasmus* (Anglistik, Germanistik), Universität Bayreuth, Bayreuth, Germany
   - 2008–2011 **BA Foreign Languages and Literature**, University of Turin, Turin, Italy
 
-## Awards
-  - Associate Fellow of The *Higher Education Academy*
-  - The University of Nottingham - *Tuition Fee Scholarship*, September 2016 - September 2018
+## Awards and Fellowships
+  - 2022 **RSE Method Fellowship**, CRASSH, University of Cambridge, UK
+  - 2018 **HEA Associate Fellow**, Higher Education Academy, UK
+  - 2016-2018 **Tuition Fee Scholarship**, The University of Nottingham, UK
 
 ## Work Experience
 
