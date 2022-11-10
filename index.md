@@ -6,7 +6,7 @@ nav_order: 1
 
 <!-- [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md) -->
 
-## Welcome to my personal website!
+# Welcome to my personal website!
 
 I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally.
 
