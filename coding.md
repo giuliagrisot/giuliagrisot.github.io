@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scripts & Tutorials
+nav_order: 4
 ---
 
 <!-- [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md) -->
