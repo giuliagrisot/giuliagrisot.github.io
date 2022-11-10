@@ -1,10 +1,9 @@
 ---
 layout: default
-title: publications and talks
+title: Publications
 ---
 
-[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)
-
+<!-- [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md) -->
 
 ## Publications
 

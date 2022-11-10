@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cv
+title: CV
 ---
 
 [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)

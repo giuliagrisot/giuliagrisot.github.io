@@ -1,10 +1,9 @@
 ---
 layout: default
-title: coding
+title: Scripts & Tutorials
 ---
 
-[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)
-
+<!-- [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md) -->
 
 ## Coding samples and tutorials
 
