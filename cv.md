@@ -4,14 +4,13 @@ title: CV
 nav_order: 2
 ---
 
-[Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md)
-
-
 ## Curriculum Vitae
 
 **Postdoctoral Researcher**, Bielefeld University, Germany
+**Visiting Scholar**, Cambridge Digital Humanities, UK
 
 ## Education
+  - 2020-2021 **Postdoctoral Researcher**, Basel University, Switzerland
   - 2015–2020 **PhD Applied Linguistics**, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
   - 2012–2013 **MA Literary Linguistics**, The University of Nottingham, Nottingham, UK
   - 2009–2010 *Erasmus* (Anglistik, Germanistik), Universität Bayreuth, Bayreuth, Germany
@@ -24,6 +23,7 @@ nav_order: 2
 ## Work Experience
 
 ### Academic
+  - 2022 **RSE Method Fellow**, Cambridge Digital Humanities, UK
   - 2021-present **Postdoctoral Researcher**, Bielefeld University, Germany
   - 2020-2021 **Postdoctoral Researcher**, University of Basel, Switzerland
   - 2015–2020 **Psycholinguistics Lab Assistant**, The University of Nottingham, UK
