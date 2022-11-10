@@ -1,12 +1,8 @@
 # theme: jekyll-theme-minimal
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-title: Giulia Grisot, PhD
+title: Giulia Grisot, Ph.D.
 logo: /images/sketch.png
-description: Giulia Grisot's personal webpage
-color_scheme: yellow
-search_enabled: true
-heading_anchors: true
-permalink: pretty
+description: My personal webpage
 aux_links:
   "GitHub Repository":
     - "https://github.com/giuliagrisot"
