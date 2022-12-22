@@ -8,10 +8,10 @@ aux_links:
   "GitHub Repository":
     - "https://github.com/giuliagrisot"
 # footer_content:
-# quick_links:
-#   - name: Reading List
-#     url: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit?usp=sharing"
-#   - name: Google Drive
-#     url: "https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing"
-#   - name: MS Teams
-#     url: "https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91"
+quick_links:
+   - name: ResearchGate
+     url: "https://www.researchgate.net/profile/Giulia-Grisot"
+   - name: ORCID
+     url: "https://orcid.org/my-orcid?orcid=0000-0002-3038-6202"
+   - name: Twitter
+     url: "https://twitter.com/Grig_gg"
