@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Current position
 - **Postdoctoral Researcher**, Bielefeld University, Germany
-- **Visiting Scholar**, Cambridge Digital Humanities, UK
+- **Visiting Scholar & Methods Fellow**, Cambridge Digital Humanities, UK
 
 ## Education
   - 2020-2021 **Postdoctoral Researcher**, Basel University, Switzerland
