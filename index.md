@@ -6,29 +6,25 @@ nav_order: 1
 
 <!-- [Home](index.md)  | [CV](cv.md) | [Publications](publications.md) | [Scripts and coding tutorials](coding.md) | [Contact me](contacts.md) -->
 
-# Welcome to my personal website!
+# Hello! Welcome to my Personal Website
 
-I am a researcher interested in the mechanisms by which humans process and understand language and literature, and in the ways linguistic data can be explored computationally.
+This is my personal website, where you can have a snippet of my academic journey and interests. As a researcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
 
-## Research interests
+## Research and Teaching
 
-_empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response_, _historical lingiuistics_
+My interests span various domains, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response_, and _historical linguistics_. I'm excited to share my knowledge as a Distant Reading teacher starting August 2023 at the University of Cambridge's MPhil in Digital Humanities program.
 
-I am currently part of the research project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://mountain-sentiment.github.io/)
+Previously, I led the research project the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://mountain-sentiment.github.io/), under Prof. Berenike Herrmann's supervision at Uni Bielefeld. The project provided valuable insights into literary landscapes through distant reading methods and sentiment analysis.
 
-## Former research
+## Get to Know Me
 
-My PhD project explored language processing of difficulties in literary texts, with a particular focus on Virginia Woolf. It combined stylistics and psycholinguistics methods (in particular eye tracking), to investigate textual complexities from an empirical viewpoint.
+Beyond academia, I love nature and the outdoors; I cook, try to keep fit, play the violin and do my best with a number of other instruments. I like cats and I have a dog.
 
-## Bio
-
-I have grown climbing trees and playing ball-games in a small town, learning to love nature and the outdoors. I cook, try to keep fit, play the violin and do my best with a number of other instruments. I have a passion for languages and a innate curiosity towards the mechanisms that allow language understanding.
-
-## Affiliations:
-
-[Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
+## Affiliations (present and past):
 
 [Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/)
+
+[Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
 
 [Digital Humanities Lab (DHLab), Basel](https://dhlab.philhist.unibas.ch/en/home/)
 
