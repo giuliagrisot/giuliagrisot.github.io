@@ -25,6 +25,7 @@ nav_order: 2
 ## Work Experience
 
 ### Academic
+  - 2023-2024 **Teaching Associate**, University of Cambridge, UK
   - 2023 **Visiting Scholar & Methods Fellow**, Cambridge Digital Humanities, UK
   - 2022 **RSE Method Fellow**, Cambridge Digital Humanities, UK
   - 2021-2023 **Postdoctoral Researcher**, Bielefeld University, Germany
