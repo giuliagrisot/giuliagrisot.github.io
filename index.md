@@ -12,7 +12,7 @@ This is my personal website, where you can have a snippet of my academic journey
 
 ## Research and Teaching
 
-My interests span various domains, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response_, and _historical linguistics_. I'm excited to share my knowledge as a Distant Reading teacher starting August 2023 at the University of Cambridge's MPhil in Digital Humanities program.
+My interests span various domains, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response_, and _historical linguistics_. I'm excited to share my knowledge as a teacher of Distant Reading at the University of Cambridge's MPhil in Digital Humanities program.
 
 Previously, I led the research project the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://mountain-sentiment.github.io/), under Prof. Berenike Herrmann's supervision at Uni Bielefeld. The project provided valuable insights into literary landscapes through distant reading methods and sentiment analysis.
 
