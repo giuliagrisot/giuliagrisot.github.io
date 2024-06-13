@@ -8,5 +8,5 @@ nav_order: 5
 
 # Contacts
  
-Would like to get in touch?
+Would you like to get in touch?
 Please email me [here](mailto:grig@hotmail.it)
