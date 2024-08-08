@@ -7,7 +7,7 @@ nav_order: 2
 # Curriculum Vitae
 
 ## Current position
-**Teaching Associate**, Faculty of English/Cambridge Digital Humanities, University of Cambridge, UK
+**Lecturer in Digital Humanities**, *School of Arts, Languages and Cultures - Digital Humanities, Cultures and Media*, The University of Manchester, UK
 
 ## Academic record
   - 2021-2023 **Postdoctoral Researcher**, Bielefeld University, Germany
