@@ -8,7 +8,7 @@ nav_order: 1
 
 # Hello! Welcome to my Personal Website
 
-This is my personal website, where you can have a snippet of my academic journey and interests. As a researcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
+This is my personal website, where you can have a snippet of my academic journey and interests. As a lecturer and esearcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
 
 ## Research and Teaching
 
@@ -21,6 +21,8 @@ Previously, I led the research project the project ["High Mountains Low Arousal?
 Beyond academia, I love nature and the outdoors; I cook, try to keep fit, play the violin and do my best with a number of other instruments. I like cats and I have a dog.
 
 ## Affiliations (present and past):
+
+[The University of Manchester](https://research.manchester.ac.uk/en/persons/giulia-grisot)
 
 [Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/)
 
