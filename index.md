@@ -8,7 +8,7 @@ nav_order: 1
 
 # Hello! Welcome to my Personal Website
 
-This is my personal website, where you can have a snippet of my academic journey and interests. As a lecturer and esearcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
+This is my personal website, where you can have a snippet of my academic journey and interests. As a teacher and researcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
 
 ## Research and Teaching
 
