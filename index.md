@@ -8,17 +8,25 @@ nav_order: 1
 
 # Hello! Welcome to my Personal Website
 
-This is my personal website, where you can have a snippet of my academic journey and interests. As a teacher and researcher, I am interested in the mechanisms by which humans process and understand language and literature, and I am dedicated to uncovering the nuances of language through computational analysis.
+Thank you for visiting my personal website. Here, you'll find an overview of my academic journey, research interests, and a bit about me as a person. As a teacher and researcher, I interested in the mechanisms by which humans process and understand language and literature, with a focus on uncovering the nuances of language through computational analysis.
 
 ## Research and Teaching
 
-My interests span various domains, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response_, and _historical linguistics_. I'm excited to share my knowledge as a teacher of Distant Reading at the University of Cambridge's MPhil in Digital Humanities program.
+My academic interests encompass a diverse range of fields, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response theory_, and _historical linguistics_. As a lecturer in Digital Humanities at The University of Manchester and a researcher at the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/), I am excited to share my knowledge and contribute to the evolving landscape of these interdisciplinary fields.
 
-Previously, I led the research project the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the early 20th Century"](https://mountain-sentiment.github.io/), under Prof. Berenike Herrmann's supervision at Uni Bielefeld. The project provided valuable insights into literary landscapes through distant reading methods and sentiment analysis.
+### Previous Experience
+
+Before my current role, I taught Distant Reading for the MPhil program in [Digital Humanities at the University of Cambridge](https://www.cdh.cam.ac.uk/). I also worked as the lead researcher on the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the Early 20th Century"](https://mountain-sentiment.github.io/) with Prof. Berenike Herrmann at the University of Bielefeld. This project explored literary landscapes through distant reading techniques and sentiment analysis, offering fresh perspectives on how sentiment shapes narrative structures.
 
 ## Get to Know Me
 
-Beyond academia, I love nature and the outdoors; I cook, try to keep fit, play the violin and do my best with a number of other instruments. I like cats and I have a dog.
+Beyond academia, I love nature and the outdoors; I cook, try to keep fit, play the violin and do my best with a number of other instruments. I love cats and I have a black greyhound.
+These hobbies keep me grounded and inspire my work, reminding me that literature, language, and culture are, at their core, human experiences.
+
+---
+
+Feel free to [reach out](contacts.md) if you have questions, want to collaborate, or are simply interested in learning more about my work!
+
 
 ## Affiliations (present and past):
 
