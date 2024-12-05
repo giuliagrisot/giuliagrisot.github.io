@@ -9,4 +9,5 @@ nav_order: 5
 # Contacts
  
 Would you like to get in touch?
-Please email me [here](mailto:grig@hotmail.it)
+
+Please drop me an email at [giulia.grisot@manchester.ac.uk](mailto:giulia.grisot@manchester.ac.uk)
