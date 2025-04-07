@@ -8,7 +8,7 @@ nav_order: 1
 
 # Hello! Welcome to my Personal Website
 
-Thank you for visiting my personal website. Here, you'll find an overview of my academic journey, research interests, and a bit about me as a person. As a teacher and researcher, I interested in the mechanisms by which humans process and understand language and literature, with a focus on uncovering the nuances of language through computational analysis.
+Thank you for visiting my personal website. Here, you'll find an overview of my academic journey, research interests, and a bit about me as a person. As a teacher and researcher, I am interested in the mechanisms by which humans process and understand language and literature, with a focus on uncovering the nuances of language through computational analysis.
 
 ## Research and Teaching
 
