@@ -9,15 +9,13 @@ nav_order: 2
 ## Current position
 **Lecturer in Digital Humanities**, *School of Arts, Languages and Cultures - Digital Humanities, Cultures and Media*, The University of Manchester, UK
 
-## Academic record
-  - 2021-2023 **Postdoctoral Researcher**, Bielefeld University, Germany
-  - 2020-2021 **Postdoctoral Researcher**, Basel University, Switzerland
+## Education
   - 2015–2020 **PhD Applied Linguistics**, The University of Nottingham, Nottingham, UK. Supervisors: Professor K. Conklin, Professor V. Sotirova. (Examining readers’ reactions to literary texts: a psycho-stylistic approach to modernist writing.)
   - 2012–2013 **MA Literary Linguistics**, The University of Nottingham, Nottingham, UK
   - 2009–2010 *Erasmus* (Anglistik, Germanistik), Universität Bayreuth, Bayreuth, Germany
   - 2008–2011 **BA Foreign Languages and Literature**, University of Turin, Turin, Italy
 
-## Awards and Fellowships
+### Awards and Fellowships
   - 2022 **RSE Method Fellowship**, CRASSH, University of Cambridge, UK
   - 2018 **HEA Associate Fellow**, Higher Education Academy, UK
   - 2016-2018 **Tuition Fee Scholarship**, The University of Nottingham, UK
