@@ -9,6 +9,8 @@ nav_order: 4
 # Workshops and training
 (all my scripts are freely available: please remember to cite me if you use them)
 
+- [Text mining workshop](https://new.express.adobe.com/webpage/db5oUkcvjH3iw), Digital Methods Summer School, University of Manchester, 30 June – 4 July 2025
+- [R Markdown for the Humanities: A Practical Intro to Reproducible Writing](https://new.express.adobe.com/webpage/05RoHVFQPGDsX), methods@manchester, University of Manchester, 28 May 2025
 - [Sentiment Analysis Workshop](https://github.com/giuliagrisot/Sentiment_Analysis_CDH_2023-24), Cambridge Digital Humanities, 11 March 2024
 - [Sentiment Analysis Workshop](https://github.com/giuliagrisot/Sentiment_Analysis_CDH_Data_School_2024), Cambridge Cultural Heritage Data School, April 2024
 - [Introduction to R Studio and R Markdown](https://github.com/giuliagrisot/R_Markdown_workshop_CDH), Cambridge University Library, 21 November 2022
