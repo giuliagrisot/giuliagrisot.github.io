@@ -8,8 +8,8 @@ nav_order: 3
 
 # Publications
 
-  - **Grisot, G., & Herrmann, J. B.** (for consideration in Language and Literature) *Is Heidi really happier in the mountains? A mixed-methods investigation of spatial affect in fiction.* 
-  
+  - **Grisot, G., & Herrmann, B. (2025)**. *Is Heidi really happier in the mountains? A mixed-methods investigation of spatial affect in fiction.* Language and Literature: International Journal of Stylistics, 09639470251337794. https://doi.org/10.1177/09639470251337794
+
   - **Grisot, G., & Herrmann, J. B. (2023)**. *Examining the representation of landscape and its emotional value in German-Swiss fiction between 1840 and 1940.* Journal of Cultural Analytics, 8(1). https://doi.org/10.22148/001c.84475
 
   - **Grisot, G., & Herrmann, J. B. (2023)**. *Swiss German Novel Collection (ELTeC-gsw), Version v2.0.0.* European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History. https://doi.org/10.5281/ZENODO.4584544
