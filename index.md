@@ -32,6 +32,8 @@ Feel free to [reach out](contacts.md) if you have questions, want to collaborate
 
 [The University of Manchester](https://research.manchester.ac.uk/en/persons/giulia-grisot)
 
+[Humanities and Data Science group](https://had-uk.github.io/)
+
 [Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/)
 
 [Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
