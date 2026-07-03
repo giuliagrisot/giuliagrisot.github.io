@@ -12,17 +12,17 @@ Thank you for visiting my personal website. Here, you'll find an overview of my 
 
 ## Research and Teaching
 
-My academic interests encompass a diverse range of fields, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response theory_, and _historical linguistics_. As a lecturer in Digital Humanities at The University of Manchester and a researcher at the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/){target="_blank"}, I am excited to share my knowledge and contribute to the evolving landscape of these interdisciplinary fields.
+My academic interests encompass a diverse range of fields, including _empirical approaches to literature_, _digital humanities_, _distant reading_, _eye-tracking_, _stylistics_, _reader response theory_, and _historical linguistics_. As a lecturer in Digital Humanities at The University of Manchester and a researcher at the [Centre for Digital Humanities, Cultures and Media](https://www.digital-humanities.manchester.ac.uk/), I am excited to share my knowledge and contribute to the evolving landscape of these interdisciplinary fields.
 
 ### Previous Experience
 
-Before my current role, I taught Distant Reading for the MPhil program in [Digital Humanities at the University of Cambridge](https://www.cdh.cam.ac.uk/){target="_blank"}. I also worked as the lead researcher on the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the Early 20th Century"](https://mountain-sentiment.github.io/){target="_blank"} with Prof. Berenike Herrmann at the University of Bielefeld. This project explored literary landscapes through distant reading techniques and sentiment analysis, offering fresh perspectives on how sentiment shapes narrative structures.
+Before my current role, I taught Distant Reading for the MPhil program in [Digital Humanities at the University of Cambridge](https://www.cdh.cam.ac.uk/). I also worked as the lead researcher on the project ["High Mountains Low Arousal? Distant Reading Topographies of Sentiment in German Swiss Novels in the Early 20th Century"](https://mountain-sentiment.github.io/) with Prof. Berenike Herrmann at the University of Bielefeld. This project explored literary landscapes through distant reading techniques and sentiment analysis, offering fresh perspectives on how sentiment shapes narrative structures.
 
 ## Get to Know Me
 
 Beyond academia, I love nature and the outdoors; I cook, draw, try to keep fit, play the violin and do my best with a number of other instruments. I love cats and I have a black greyhound.
 
-Just for fun I created a webpage to keep a eye on upcoming DH conferences: [DR Conference Radar](https://dh-conference-radar.github.io/){target="_blank"}
+Just for fun I created a webpage to keep a eye on upcoming DH conferences: [DR Conference Radar](https://dh-conference-radar.github.io/)
 
 ---
 
@@ -31,18 +31,18 @@ Feel free to [reach out](contacts.md) if you have questions, want to collaborate
 
 ## Affiliations (present and past):
 
-[The University of Manchester](https://research.manchester.ac.uk/en/persons/giulia-grisot){target="_blank"}
+[The University of Manchester](https://research.manchester.ac.uk/en/persons/giulia-grisot)
 
-[Humanities and Data Science group](https://had-uk.github.io/){target="_blank"}
+[Humanities and Data Science group](https://had-uk.github.io/)
 
-[Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/){target="_blank"}
+[Cambridge Digital Humanities, University of Cambridge](https://www.cdh.cam.ac.uk/about/people/dr-giulia-grisot/)
 
-[Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546){target="_blank"}
+[Bielefeld University](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=287681546)
 
-[Digital Humanities Lab (DHLab), Basel](https://dhlab.philhist.unibas.ch/en/home/){target="_blank"}
+[Digital Humanities Lab (DHLab), Basel](https://dhlab.philhist.unibas.ch/en/home/)
 
-[CRAL Centre for Research in Applied Linguistics](https://www.nottingham.ac.uk/research/groups/cral/){target="_blank"}
+[CRAL Centre for Research in Applied Linguistics](https://www.nottingham.ac.uk/research/groups/cral/)
 
-[IGEL International Society for the Empirical Study of Literature and Media](https://sites.google.com/igelassoc.org/igel2018/home){target="_blank"}
+[IGEL International Society for the Empirical Study of Literature and Media](https://sites.google.com/igelassoc.org/igel2018/home)
 
-[PALA poetics and linguistics association](https://www.pala.ac.uk/){target="_blank"}
+[PALA poetics and linguistics association](https://www.pala.ac.uk/)
